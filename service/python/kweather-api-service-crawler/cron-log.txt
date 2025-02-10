@@ -1,0 +1,2 @@
+{'localCode': 'GURO_F01', 'TM_FC': '2025-02-06T14:00:00.000Z', 'TM_EF': '2025-02-06T20:00:00.000Z', 'NHOUR': 6, 'WCOND': 4, 'RAINP': 30, 'TEMP': -1, 'HUMI': 45, 'WDIR': 8, 'WSPD': 2, 'WAVE': -1, 'RAIN': '0', 'SNOW': '0'}
+{'localCode': 'GURO_F01', 'TM_FC': '2025-02-06T14:00:00.000Z', 'TM_EF': '2025-02-06T21:00:00.000Z', 'NHOUR': 7, 'WCOND': 6, 'RAINP': 60, 'TEMP': -1, 'HUMI': 60, 'WDIR': 8, 'WSPD': 2, 'WAVE': -1, 'RAIN': '0', 'SNOW': '~1'}
